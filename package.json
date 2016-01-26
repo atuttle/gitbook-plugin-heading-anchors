@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-heading-anchors",
   "description": "Adds anchor.js support to your gitbook",
   "main": "index.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "gitbook": "*"
   },
